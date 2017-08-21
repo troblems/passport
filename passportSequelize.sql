@@ -1,0 +1,2 @@
+create database sequelize_passport;
+use sequelize_passport;
